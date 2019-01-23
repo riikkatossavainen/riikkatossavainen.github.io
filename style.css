@@ -27,7 +27,7 @@
     padding-bottom: 170px;
   }
 
-  h1 {
+  h1.header{
     text-shadow:2px 2px 5px #000;
     font-family: "Helvetica";
   }
@@ -37,7 +37,7 @@
     font-family: "Helvetica";
   }
 
-  p {
+  p.header {
     text-shadow:2px 2px 5px #000;
     font-family: "Helvetica";
   }

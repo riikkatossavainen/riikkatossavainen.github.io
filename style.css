@@ -42,4 +42,14 @@
     font-family: "Helvetica";
   }
 
+  .rounded-circle {
+    -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%);
+  }
+
+  .rounded-circle:hover {
+    -webkit-filter: grayscale(0%); 
+    filter: grayscale(0%);
+  }
+
 

@@ -16,52 +16,34 @@
   .bg-2 { 
     background-color: #6c9a95; 
     color: #fff;
-    padding-top: 170px;
-    padding-bottom: 170px;
-  }
-
-  .bg-4 { 
-    background-color: #2c3a39; 
-    color: #fff;
-  }
-
-
-
-  .bg-5 { 
-    color: #fff;
-    background-image: url("/bg.png");
-    background-repeat: no-repeat;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    padding-top: 170px;
-    padding-bottom: 170px;
-  }
-
-  .bg-6 { 
-    color: #fff;
-    background-image: url("/bg.png");
-    background-repeat: no-repeat;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    padding-top: 170px;
-    padding-bottom: 170px;
+    padding-top: 70px;
+    padding-bottom: 70px;
   }
 
   .bg-7 { 
+    background-color: #1d3a38; 
     color: #fff;
-    background-image: url("/bg.png");
-    background-repeat: no-repeat;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    padding-top: 170px;
-    padding-bottom: 170px;
+    padding-top: 70px;
+    padding-bottom: 70px;
   }
+
+  .bg-5 { 
+    background-color: #1a6d67; 
+    color: #fff;
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+
+  .bg-6 { 
+    background-color: #08a89e; 
+    color: #fff;
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+
+
+
+
 
 
 
